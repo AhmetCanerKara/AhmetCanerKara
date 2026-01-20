@@ -36,3 +36,10 @@
 ### 🏆 Projects
 - Will be added...
 
+<h3 align="center">📊 LeetCode Stats</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AhmetCanerKara/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AhmetCanerKara?theme=dark&font=baloo" />
+  </a>
+</p>
