@@ -12,7 +12,7 @@
 ### ⚙︎ Tech Stack
 
 #### 💻 Programming Language
-![Python](https://raw.githubusercontent.com/python/graphics/main/community_logos/python-logo-master-v3-TM.svg)
+![Python]<img src="https://raw.githubusercontent.com/python/graphics/main/community_logos/python-logo-master-v3-TM.svg" width="120" />
 ![JJavaScript]
 ![PHP]
 ![C++]
