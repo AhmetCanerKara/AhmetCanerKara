@@ -33,8 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
 </p>
 
-### 🏆 Projects
+<h3 align="center"> 🏆 Projects
+
+<p align="center">
 - Will be added...
+</p>
 
 <h3 align="center">📊 LeetCode Stats</h3>
 
