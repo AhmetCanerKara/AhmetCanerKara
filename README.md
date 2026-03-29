@@ -50,7 +50,7 @@ A Comprehensive look at the technologies I use to bring ideas to life:
 
 - **The Problem:** Generic travel apps lack personalization and real-time smart discovery.
 - **The Solution:** A cross-platform application (Flutter) backed by an AI-driven recommendation engine.
-- **My Role:** Full-stack development, focusing on **Clean Architecture** to ensure the app stays maintainable as it scales.
+- **My Role:** Full-stack development and system architecture design.
 
 ---
 
@@ -66,5 +66,5 @@ A Comprehensive look at the technologies I use to bring ideas to life:
 <div align="center">
   <h3>Ready to contribute to innovative teams.</h3>
   <p>Looking for a developer who understands both the code and the business?</p>
-  <a href="mailto:your-email@example.com"><b>Let's Talk! 📧</b></a>
+  <a href="mailto:ahmetcanerkara@hotmail.com"><b>Let's Talk! 📧</b></a>
 </div>
