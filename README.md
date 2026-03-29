@@ -6,8 +6,8 @@
   <p><i>Bridging the gap between business logic and robust engineering to build scalable products.</i></p>
   
   <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:ahmetcanerkara@hotmail.com"><img src="https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/ahmet-caner-kara-243b23247"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
