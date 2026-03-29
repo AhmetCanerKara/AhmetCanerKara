@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=36BCF7&height=200&section=header&text=Ahmet%20Caner%20Kara&fontSize=60&animation=fadeIn&fontAlignY=45" alt="Header" />
 
   <h1>🚀 Software Developer | MIS Student | Systems Builder</h1>
 
