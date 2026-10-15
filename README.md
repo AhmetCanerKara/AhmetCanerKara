@@ -14,8 +14,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-A Comprehensive look at the technologies I use to bring ideas to life:
-
 ### 🌐 Web & Mobile Development
 | Technology | Name | Technology | Name |
 | :---: | :---: | :---: | :---: |
@@ -28,14 +26,6 @@ A Comprehensive look at the technologies I use to bring ideas to life:
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=python" width="40" /> | **Python** | <img src="https://skillicons.dev/icons?i=cpp" width="40" /> | **C++** |
 | <img src="https://skillicons.dev/icons?i=mysql" width="40" /> | **MySQL** | <img src="https://skillicons.dev/icons?i=docker" width="40" /> | **Docker** |
-
-### 🔧 Workflow & Environment
-| Tool | Name | Tool | Name |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=git" width="40" /> | **Git** | <img src="https://skillicons.dev/icons?i=linux" width="40" /> | **Linux** |
-| <img src="https://skillicons.dev/icons?i=vscode" width="40" /> | **VS Code** | <img src="https://skillicons.dev/icons?i=postman" width="40" /> | **Postman** |
-
----
 
 ## 🚀 Featured Project: **LocaGuider**
 *AI-Powered Travel & Event Discovery Ecosystem*
