@@ -12,13 +12,6 @@
 
 <br/>
 
-## 💡 The Philosophy
-> **"I don't just write code; I design systems that solve problems."**
-
-As an **MIS student**, I approach software development with a product-first mindset. My goal is to ensure that every architecture I design is not only functional but also **scalable, maintainable, and aligned with user needs.**
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 A Comprehensive look at the technologies I use to bring ideas to life:
